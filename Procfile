@@ -1,1 +1,1 @@
-worker: trial
+web: trial
