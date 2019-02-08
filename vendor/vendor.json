@@ -1,0 +1,15 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "bot",
+			"revision": ""
+		},
+		{
+			"path": "config",
+			"revision": ""
+		}
+	],
+	"rootPath": "trial"
+}
